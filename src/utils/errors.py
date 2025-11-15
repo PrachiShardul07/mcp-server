@@ -1,0 +1,2 @@
+class ExchangeNotSupportedError(Exception):
+    pass
